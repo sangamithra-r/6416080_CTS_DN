@@ -1,0 +1,4 @@
+com\example\bookstore\BookRepository.class
+com\example\bookstore\Book.class
+com\example\bookstore\BookController.class
+com\example\bookstore\SpringDataJpaExampleApplication.class
